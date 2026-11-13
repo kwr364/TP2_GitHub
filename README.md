@@ -11,6 +11,7 @@ Objectif du TP : apprendre à travailler en équipe avec Git et GitHub
 |-|-|-|
 |Khadija ...|1|https://github.com/touatikhadidja679-ux|
 |Kawther|1|https://github.com/kwr364|
+|Ikhlas Hallou |1| https://github.com/Ikhlas-gif) |
 
 ## Prérequis
 
